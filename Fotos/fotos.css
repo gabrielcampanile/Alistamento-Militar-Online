@@ -27,16 +27,19 @@ header a:hover {
     text-decoration: underline;
 }
 
-body {
-    background-image: url('fundo.png');
-}
-
 nav ul li {
     display: inline;
 }
 
+body {
+    background-image: url('fundo.png');
+}
+
+section div {
+    background-color: rgb(218, 213, 213);
+}
+
 .main-content {
-    /* background-image: url('fundo.png'); */
     background-repeat: no-repeat;
     background-size: 100%;
     padding: 20px;
