@@ -1,0 +1,1 @@
+alert("Minha vida fez sentido após a primeira posição de sentido!");
